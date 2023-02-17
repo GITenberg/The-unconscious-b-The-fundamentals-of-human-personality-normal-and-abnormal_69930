@@ -1,0 +1,34 @@
+_repo: The-unconscious-b-The-fundamentals-of-human-personality-normal-and-abnormal_69930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prince, Morton
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '55500'
+    url: http://www.gutenberg.org/2009/agents/55500
+    wikipedia: https://en.wikipedia.org/wiki/Morton_Prince
+description: ''
+gutenberg_issued: '2023-02-02'
+identifiers:
+  gutenberg: '69930'
+  lccn: '21011050'
+language: en
+pgterms:marc904: https://archive.org/details/unconsciousthefu00priniala
+pgterms:marc905: 20190731083721prince
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Turgut Dincer, KD Weeks and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Macmillan company, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Subconsciousness'
+- !lcsh 'Psychology, Pathological'
+- !lcc 'BF'
+- GITenberg
+title: 'The unconscious : $b The fundamentals of human personality, normal and abnormal'
+url: http://www.gutenberg.org/ebooks/69930
